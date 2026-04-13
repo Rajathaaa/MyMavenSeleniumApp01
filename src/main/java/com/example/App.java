@@ -1,4 +1,4 @@
-/*package com.example;
+package com.example;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -17,13 +17,13 @@ public class App
         driver.findElement(By.id("login-button")).click();
     }
 }
-*/
 
 
 
 
 
-package com.example;
+
+/*package com.example;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -55,7 +55,7 @@ public class App
         driver.findElement(By.id("login-button")).click();
     }
 }
-
+*/
 
 
 
